@@ -9,7 +9,7 @@ public class Dog extends Animal{
 //		System.out.println("眠った");
 //	}
 	
-	
+	//復習１
 	//メソッドの差分コーディングをする
 	//howl();「ワン」と出力する
 	public void howl() {
