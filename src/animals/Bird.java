@@ -5,6 +5,11 @@ public class Bird extends Animal{
 	//復習３
 	//boolean型「flying」
 	private boolean flying;
+
+	//暗黙的にディフォルトコンストラクタが呼び出される
+//	public Bird() {
+//		super();
+//	}
 	
 	//復習4
 	//sleep()のオーバーライド

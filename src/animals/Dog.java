@@ -8,6 +8,10 @@ public class Dog extends Animal{
 //	public void sleep() {
 //		System.out.println("眠った");
 //	}
+	//暗黙的にディフォルトコンストラクタが挿入される
+//	public Dog() {
+//		super();
+//	}
 	
 	//復習１
 	//メソッドの差分コーディングをする

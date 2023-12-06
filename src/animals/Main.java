@@ -2,7 +2,7 @@ package animals;
 
 public class Main {
 	public static void main(String[] args) {
-		Dog dog = new Dog();
+		Dog dog = new Dog(); 
 		dog.name = "ポチ";
 		dog.sleep();
 		dog.howl();
